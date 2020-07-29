@@ -119,5 +119,19 @@
     "singleQuote": true,
     "trailingComma": "es5",
     "proseWrap": "always"
-  }
+  },
+  "description": "[![CircleCI](https://circleci.com/gh/sharetribe/ftw-daily.svg?style=svg)](https://circleci.com/gh/sharetribe/ftw-daily)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharetribe/ftw-daily.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sharetribe/ftw-daily/issues"
+  },
+  "homepage": "https://github.com/sharetribe/ftw-daily#readme"
 }
